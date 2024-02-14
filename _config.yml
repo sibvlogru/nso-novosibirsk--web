@@ -2,8 +2,8 @@ minimal_mistakes_skin: default
 locale: en-US
 title: 'Новосибирск сегодня'
 title_separator: '-'
-subtitle: null
-name: 'Your Name'
+subtitle: 'Кратко и оперативно'
+name: 'Ульяна Семичастная'
 description: 'Новости Новосибирска и Новосибирской области'
 url: null
 baseurl: null
