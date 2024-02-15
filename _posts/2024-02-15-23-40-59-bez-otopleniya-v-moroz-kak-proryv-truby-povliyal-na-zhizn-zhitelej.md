@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Без отопления в мороз: как прорыв трубы повлиял на жизнь жителей"
-header
+header:
   overlay_image: http://files.lep.solutions/nso-media/tg/ngs_news/85121/0.webp
   overlay_filter: 0.5
 categories: incidents
