@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ученого-гидролога обвинили в преступлении: что дальше?"
-header
+header:
   overlay_image: http://files.lep.solutions/nso-media/tg/ngs_news/85127/0.webp
   overlay_filter: 0.5
 categories: incidents
